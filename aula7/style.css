@@ -1,0 +1,16 @@
+.caixa{
+    padding:10px;margin:auto;
+    border:1px solid red;
+    border-radius:10px;
+    width:100px;
+}
+
+#paragrafo{
+    font-size:20px;
+    margin:0 auto;
+    padding:10px;
+    background-color:#a1a1a1;
+    color:blue;
+    border:1px solid red;
+    border-radius:4px;
+}

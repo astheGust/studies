@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+
+    </style>
+</head>
+<body>
+    <h2 style="text-align:center">exemplo de link e imagem</h2>
+    <p>exemplo de link:</p>
+    <a href="https://www.google.com">teste</a>
+    <img src="https://th.bing.com/th?id=OIF.pMuHcwSWp15A3j15r4%2bx5Q&w=253&h=180&c=7&r=0&o=7&pid=1.7&rm=3" alt="IMAGEM ILUSTRATTVA">
+</body>
+</html>
